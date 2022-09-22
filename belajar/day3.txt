@@ -1,5 +1,5 @@
 Nama : ZukriAdinalta
 Stack: Fullstack
 belajar hari ke 3
-Sudah di rubah oleh komputer B 
-Saya Komputer A 
+Sudah di rubah oleh komputer B  
+Saya Komputer A    
